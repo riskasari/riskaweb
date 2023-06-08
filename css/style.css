@@ -1,0 +1,50 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+.jumbotron {
+    background-color: #acf59d;
+}
+
+.jumbotron img{
+    width: 200px;
+    border: 5px solid #93cc88;
+   
+}
+
+hr{
+    width: 250px;
+    border-top: 3px solid #999;
+}
+
+section {
+    min-height: 300px; 
+}
+
+.about {
+    background-color: aliceblue;
+}
+
+.resume {
+    background-color: #acf59d;
+}
+
+.galeri {
+    background-color: rgb(213, 248, 218);
+}
+
+.kontak {
+    min-height: 800px;
+    background-color: #acf59d;
+}
+
+footer {
+    position: absolute;
+    botton: 0;
+    width: 100%;
+    height: 100px;
+}
